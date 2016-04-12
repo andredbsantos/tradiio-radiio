@@ -4,8 +4,6 @@
 
 ![Hit Me!](https://raw.githubusercontent.com/wildlifechorus/tradiio-radiio/master/images/hitme.png)
 
-![SlackvsTradiio](https://raw.githubusercontent.com/wildlifechorus/tradiio-radiio/master/images/slackvstradiio.png)
-
 ## Install & Run
 * ``git clone https://github.com/wildlifechorus/tradiio-radiio.git``
 * ``cd tradiio-radiio``
@@ -22,3 +20,7 @@ This is something done in [Slack](https://slack.com/), under [integrations](http
 - [ ] Tradiio Radiio (Slack Bot Server)
 - [ ] Add to multiple teams
 - [ ] Add to Slack button
+
+##
+
+![SlackvsTradiio](https://raw.githubusercontent.com/wildlifechorus/tradiio-radiio/master/images/slackvstradiio.png)
