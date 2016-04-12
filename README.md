@@ -1,4 +1,4 @@
-# Tradiio Radiio (Slack Bot Client)
+# Tradiio Radiio (Slack Bot Client) [![Codacy Badge](https://api.codacy.com/project/badge/grade/8506f829277149249b19cb33a97b0315)](https://www.codacy.com/app/wildlifechorus/tradiio-radiio)
 
 **A [Slack](https://slack.com/) bot client that fetches songs from [Tradiio](https://tradiio.com)'s weekly playlists!**
 
@@ -21,6 +21,6 @@ This is something done in [Slack](https://slack.com/), under [integrations](http
 - [ ] Add to multiple teams
 - [ ] Add to Slack button
 
-##
+## Powered by... :sparkles: :sparkles: :sparkles:
 
 ![SlackvsTradiio](https://raw.githubusercontent.com/wildlifechorus/tradiio-radiio/master/images/slackvstradiio.png)
