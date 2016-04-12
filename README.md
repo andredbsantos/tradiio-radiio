@@ -16,6 +16,7 @@
 
 This is something done in [Slack](https://slack.com/), under [integrations](https://my.slack.com/services). Create a [new bot](https://my.slack.com/services/new/bot), and note its API token.
 
+## CLI Behaviour
 ![CLI](https://raw.githubusercontent.com/wildlifechorus/tradiio-radiio/master/images/cli.png)
 
 ## To do one day... :sparkles: :sparkles: :sparkles:
