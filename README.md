@@ -1,10 +1,10 @@
 # Tradiio Radiio (Slack Bot Client)
 
-![Slack](https://github.com/wildlifechorus/tradiio-radiio/blog/master/images/slack.png) ![Tradiio](https://github.com/wildlifechorus/tradiio-radiio/blog/master/images/tradiio.png)
+![Slack](https://raw.githubusercontent.com/wildlifechorus/tradiio-radiio/blob/master/images/slack.png) ![Tradiio](https://raw.githubusercontent.com/wildlifechorus/tradiio-radiio/blob/master/images/tradiio.png)
 
 **A [Slack](https://slack.com/) bot client that fetches songs from [Tradiio](https://tradiio.com)'s weekly playlists!**
 
-![Hit Me!](https://github.com/wildlifechorus/tradiio-radiio/blog/master/images/hitme.png)
+![Hit Me!](https://raw.githubusercontent.com/wildlifechorus/tradiio-radiio/blob/master/images/hitme.png)
 
 ## Install & Run
 * ``git clone https://github.com/wildlifechorus/tradiio-radiio.git``
